@@ -1,0 +1,60 @@
+body {
+	
+}
+
+.principal {
+	background: #CCCCCC
+}
+
+
+#foto {
+	width: 50%;
+	border: black;
+}
+
+#diamante {
+	width: 100%;
+}
+
+ h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center; font-size: 55px;
+}
+
+
+.imagemcolégio {
+	width: 50%;
+}
+
+
+h3 {
+	text-align: center
+}
+
+
+#Distrito {
+	font-size: 30px
+}
+
+strong {
+	color: rgb(24,101,169);
+}
+
+.itens {
+	font-style: italic;
+}
+
+.nosso_colégio {
+	background: #FFFFFF;
+	padding: 50px;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 25%;
+}
